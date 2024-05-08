@@ -9,7 +9,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import javax.security.auth.login.LoginException;
 import io.github.cdimascio.dotenv.Dotenv;
 
-public class Main extends ListenerAdapter {
+public class Bot extends ListenerAdapter {
 
     public static void main(String[] args) throws LoginException {
         // Load API token
@@ -17,7 +17,7 @@ public class Main extends ListenerAdapter {
         String token = dotenv.get("DISCORD");
 
         JDABuilder.createDefault(token)
-                .addEventListeners(new Main())
+                .addEventListeners(new Bot())
                 .build();
     }
 
