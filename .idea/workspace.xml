@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66efa0b4-4d38-4c22-9583-0bfd1979ec32" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kirar00t/me/commands/lenny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kirar00t/me/events/ping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kirar00t/me/commands/BotCommands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kirar00t/me/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kirar00t/me/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kirar00t/me/commands/lenny.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kirar00t/me/events/ping.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Bot.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,6 +67,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/miki4/Desktop/CODE/JAVA/JDA_BOT/src/main/java/kirar00t/me/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
@@ -85,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715186209499</updated>
       <workItem from="1715186210518" duration="1653000" />
-      <workItem from="1715252697300" duration="1041000" />
+      <workItem from="1715252697300" duration="5631000" />
+      <workItem from="1715291345749" duration="1506000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
